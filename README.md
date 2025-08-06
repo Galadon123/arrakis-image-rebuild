@@ -2,6 +2,11 @@
 
 A complete, self-contained release of the Arrakis system.
 
+## Download the latest release
+   ```
+   wget https://github.com/Galadon123/arrakis-image-rebuild/releases/download/v0.2/arrakis-release.tar.gz
+   ```
+
 ## Quick Start
 
 1. **Extract the archive**
